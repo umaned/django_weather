@@ -7,4 +7,4 @@
 
 Документация openweather : https://openweathermap.org/current
 
-Документация django https://docs.djangoproject.com
+Документация django : https://docs.djangoproject.com
